@@ -1,0 +1,10 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%源自: 沈智鹏 著《船舶运动自适应滑模控制》 2019年科学出版社%%
+%%下载地址www.shenbert.cn/book/shipmotionASMC.html%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+仿真程序:simulations.mdl
+控制律:control.m
+虚拟控制量alfa_1: fai.m
+一阶低通滤波器:low_filter.m
+被控对象:plant.m
+作图程序:Uzuotu.m

@@ -1,0 +1,12 @@
+################################################
+##源自: 沈智鹏 著《船舶运动自适应滑模控制》 2019年科学出版社
+##下载地址www.shenbert.cn/book/shipmotionASMC.html
+################################################
+1、alfuv.m：虚拟控制量计算等程序
+2、control.m：控制器设计
+3、Copy_of_ship_plot：画图
+4、Copy_of_OBS_plot：观测器画图
+5、ship_plant：船舶模型
+6、slding model.mdl：滑模面
+7、tracking_control.mdl: 船舶控制Simulink仿真模块
+8、OBServer.mdl: 观测器仿真模块

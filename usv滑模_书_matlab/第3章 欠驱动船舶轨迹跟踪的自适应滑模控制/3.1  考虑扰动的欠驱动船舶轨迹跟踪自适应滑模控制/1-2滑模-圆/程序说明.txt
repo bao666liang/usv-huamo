@@ -1,0 +1,10 @@
+################################################
+##源自: 沈智鹏 著《船舶运动自适应滑模控制》 2019年科学出版社
+##下载地址www.shenbert.cn/book/shipmotionASMC.html
+################################################
+1、alfuv.m：各中间变量计算
+2、control.m：控制器设计
+3、Copy_of_ship_plot.m：画图
+4、ship_plant.m：船舶模型
+5、sliding model.mdl: 滑模面
+6、tracking_control.mdl: 船舶控制Simulink仿真模块

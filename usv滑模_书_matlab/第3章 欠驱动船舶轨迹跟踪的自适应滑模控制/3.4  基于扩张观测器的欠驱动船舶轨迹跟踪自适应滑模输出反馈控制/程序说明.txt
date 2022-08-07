@@ -1,0 +1,13 @@
+################################################
+##源自: 沈智鹏 著《船舶运动自适应滑模控制》 2019年科学出版社
+##下载地址www.shenbert.cn/book/shipmotionASMC.html
+################################################
+1、alfuv.m：各变量计算
+2、control.m：控制器设计
+3、ship_plot.m：画图
+4、ESO_plot.m：观测器画图
+5、ship_plant.m：船舶模型
+6、constant.m：增益参数
+7、slding model.mdl：滑模面
+8、tracking_control.mdl: 船舶控制Simulink仿真模块
+9、ESO_1.mdl: 观测器仿真模块

@@ -1,0 +1,8 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%源自: 沈智鹏 著《船舶运动自适应滑模控制》 2019年科学出版社
+%%下载地址www.shenbert.cn/book/shipmotionASMC.html
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+仿真文件：
+ship_Path_round.mdl  %使用Simulink搭建的圆形曲线路径跟踪仿真
+sfun_ship.m           %S-function模块搭建的欠驱动船舶模型
+sfun_rbf.m             %S-function模块搭建的神经网络强化学习模块

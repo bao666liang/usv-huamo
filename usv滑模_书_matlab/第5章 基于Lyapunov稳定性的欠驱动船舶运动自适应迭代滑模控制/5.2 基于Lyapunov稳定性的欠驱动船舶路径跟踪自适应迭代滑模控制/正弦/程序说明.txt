@@ -1,0 +1,7 @@
+################################################
+##源自: 沈智鹏 著《船舶运动自适应滑模控制》 2019年科学出版社
+##下载地址www.shenbert.cn/book/shipmotionASMC.html
+################################################
+1、neurocircle.mdl与shipRdelta_sin.mdl属于simulink主程序。
+2、sfun_ship5446.m与sfun_ship54461.m均属于被控对象船的模型。
+3、nn.m为神经网络逼近未知项。
